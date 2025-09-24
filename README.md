@@ -1,2 +1,4 @@
-# hello-dev
-découverte de github
+# hello-dev : mon projet
+Ce projet est une découverte de github
+
+c'est super!
