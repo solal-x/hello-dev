@@ -1,6 +1,2 @@
 # blabl   blabla
-
-* nouvelles features
-* blabla
-
 * on vérifie que les branches sont bien indep
