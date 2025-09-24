@@ -1,1 +1,2 @@
 # blabl   blabla
+* on vérifie que les branches sont bien indep
